@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Tim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**TigerTimofey/TigerTimofey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/timofey-tech/" target="_blank"><img alt="Timofey | LinkedIn" width="22px" src="./linkedin.svg" /></a>
+&nbsp;&nbsp;
+<a href="mailto:timofey.babisashvili@gmail.com" target="_blank"><img alt="Timofey | Gmail" width="22px" src="./gmail.svg" /></a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✨ Experience
+
+I'm a dedicated Full-Stack Software Engineer with over 3 years of experience. I have a passion for building reliable and scalable applications across the stack. I thrive in diverse, international environments, where I combine technical skills with strong teamwork and adaptability to contribute to the success of each project.
+
+#### 🌱 Skills
+
+|                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**            | ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Gamedev**              | ![Godot](https://img.shields.io/badge/-Godot-58B2E5?style=flat&logo=godot-engine&logoColor=white) ![PixiJS](https://img.shields.io/badge/-PixiJS-00BFFF?style=flat&logo=pixijs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Application and Data** | ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white) ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)                                                      |
+| **QA & Testing**         | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-e9554d?style=flat&logo=octopusdeploy&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)                                                                                                                                                                                                                                                         |
+| **DevOps**               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)                                                                                    |
+| **Business**             | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)                                                                                                                                                                                                        |
+
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+ </a>
