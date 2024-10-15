@@ -6,7 +6,7 @@
 
 <br>
 
-#### ✨ Experience
+#### ✨ About
 
 I'm a dedicated Full-Stack Software Engineer with over 3 years of experience. I have a passion for building reliable and scalable applications across the stack. I thrive in diverse, international environments, where I combine technical skills with strong teamwork and adaptability to contribute to the success of each project.
 
